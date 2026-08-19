@@ -1,3 +1,5 @@
+// Structural pattern used: Adapter Pattern
+// Reason: Used to convert XML data into JSON format to make it compatible with a 3rd-party SmartAnalyticsLibrary.
 import java.io.StringReader;
 import javax.xml.parsers.DocumentBuilder;
 import javax.xml.parsers.DocumentBuilderFactory;

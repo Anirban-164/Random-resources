@@ -1,3 +1,5 @@
+// Structural pattern used: Decorator Pattern
+// Reason: Used to dynamically customize Ramadan packages (adding fruit, sweets) without modifying the base package classes.
 /*
 ZBazar traditionally offers three fixed Ramadan packages every year. They are: Standard, Special, and Premium.
  

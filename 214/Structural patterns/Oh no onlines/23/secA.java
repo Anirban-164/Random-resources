@@ -1,3 +1,5 @@
+// Structural pattern used: Bridge Pattern and Decorator Pattern
+// Reason: Bridge decouples delivery region from delivery mode. Decorator dynamically adds gift wrapping to items.
 // Structural Design Pattern Example for the A1 PDF
 // Uses Bridge for delivery region + delivery mode, and Decorator for gift wrapping.
 

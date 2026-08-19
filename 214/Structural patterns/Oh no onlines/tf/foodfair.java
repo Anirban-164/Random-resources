@@ -1,3 +1,5 @@
+// Structural pattern used: Decorator Pattern
+// Reason: Used to dynamically add 'Extra Cheese' to different Pizza types without creating a subclass for every combination.
 import java.util.ArrayList;
 import java.util.List;
 

@@ -1,3 +1,5 @@
+// Structural pattern used: Composite Pattern
+// Reason: Used to uniformly calculate price and weight for both individual products and packages (which can contain products or other packages).
 /*
 ZBazar is a Subscription-based grocery delivery service that lets customers set up a recurring monthly bazar bundle that is automatically delivered to their homes. The platform Offers preset
 packages (such as Small, Family, and Mega) and single grocery items (individual items like rice, oil, pulse, etc.). Preset packages consist of multiple single items. Each item has its specific name,

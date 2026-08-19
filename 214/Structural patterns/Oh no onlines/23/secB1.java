@@ -1,3 +1,5 @@
+// Structural pattern used: Composite Pattern and Decorator Pattern
+// Reason: Composite is used to bundle gift items into packages. Decorator is used to add custom packaging (Premium, Eco-Friendly) at runtime.
 /*
 An e-commerce company sells gift items such as chocolates, mugs, perfumes, books, flowers, 
 and many more. The company also offers several pre-defined gift packages, each consisting of 

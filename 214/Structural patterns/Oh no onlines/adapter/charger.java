@@ -1,3 +1,5 @@
+// Structural pattern used: Adapter Pattern
+// Reason: Used to wrap a USCharger (flat pins) to make it compatible with a EuropeanSocket (round pins) without altering the USCharger code.
 interface EuropeanSocket {
     void plugIntoRoundSocket();
 }

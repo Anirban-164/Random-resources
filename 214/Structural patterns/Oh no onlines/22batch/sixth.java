@@ -1,3 +1,5 @@
+// Structural pattern used: Bridge Pattern
+// Reason: Used to decouple the delivery types (Standard, Express) from the transport technologies (Drone, Robot) so they can vary independently.
 /*
 ZBazar is an online grocery platform that offers multiple delivery options. as given below:
 - Standard Delivery (delivered within 24 hours)

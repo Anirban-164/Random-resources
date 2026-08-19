@@ -1,3 +1,5 @@
+// Structural pattern used: Composite Pattern
+// Reason: Used to uniformly treat individual food/grocery items and composite packages (like combo meals or grocery packs).
 /*
 A restaurant chain wants to build a flexible food ordering system. A customer can order individual food items as well as bundled packages such as combo meals and grocery packs. All of these items should be treated uniformly in the system because they all have a price and can be displayed in a receipt.
 

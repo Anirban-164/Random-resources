@@ -1,3 +1,5 @@
+// Structural pattern used: Adapter Pattern
+// Reason: Used to integrate third-party devices (OldSmartBulb, LegacyHeater) into the existing SmartHome system without modifying them.
 /*
 A company is developing a Smart Home Control App that allows users to control various
 smart devices using voice commands.

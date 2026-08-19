@@ -1,3 +1,5 @@
+// Structural pattern used: Bridge Pattern
+// Reason: Used to separate the Shape hierarchy from the Color hierarchy, preventing an explosion of combined subclasses.
 // ---- 1. Implementor Interface ----
 interface Color {
     void applyColor();

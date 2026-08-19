@@ -1,3 +1,5 @@
+// Structural pattern used: Composite Pattern
+// Reason: Used to handle individual shapes (Dot, Circle) and composite groups (CompoundGraphic) uniformly for drawing and bounds checking.
 import java.awt.Color;
 import java.awt.Graphics;
 import java.util.ArrayList;

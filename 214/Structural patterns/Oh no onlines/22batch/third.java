@@ -1,3 +1,5 @@
+// Structural pattern used: Bridge Pattern
+// Reason: Used to decouple notification event types (e.g., PaymentFailed) from notification channels (e.g., Email, WhatsApp) for independent scaling.
 /*
 Dalchal is an online grocery platform that has grown rapidly. It now needs to keep users informed
 about key subscription events. Whenever a user's monthly bazar is confirmed, dispatched, or

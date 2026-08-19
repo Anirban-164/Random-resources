@@ -1,3 +1,5 @@
+// Structural pattern used: Adapter Pattern
+// Reason: Used to make a MicroUsbPhone compatible with the LightningPhone interface expected by the client.
 // 1. Target Interface 
 interface LightningPhone {
     void recharge();

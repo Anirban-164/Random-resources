@@ -1,3 +1,5 @@
+// Structural pattern used: Composite Pattern
+// Reason: Used to uniformly calculate the total price of individual products and boxes (which can contain other boxes and products).
 import java.util.ArrayList;
 import java.util.List;
 

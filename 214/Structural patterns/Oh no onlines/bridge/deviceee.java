@@ -1,3 +1,5 @@
+// Structural pattern used: Bridge Pattern
+// Reason: Used to decouple the abstraction (RemoteControl) from its implementation (Device) so they can vary independently.
 interface Device {
     boolean isEnabled();
     void enable();

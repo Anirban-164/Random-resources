@@ -1,3 +1,5 @@
+// Structural pattern used: Composite Pattern
+// Reason: Used to treat individual menu items and composite sub-menus uniformly when iterating and printing menus.
 import java.util.ArrayList;
 import java.util.List;
 

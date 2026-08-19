@@ -1,3 +1,5 @@
+// Structural pattern used: Adapter Pattern
+// Reason: Used to adapt a SquarePeg to be treated as a RoundPeg so it can be checked against a RoundHole.
 // -------------------------------------------------------------
 // 1. Target Class 
 // -------------------------------------------------------------

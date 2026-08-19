@@ -1,4 +1,5 @@
-
+// Structural pattern used: Bridge Pattern
+// Reason: Used to decouple the window abstraction (Window, IconWindow) from platform-specific implementations (XWindowImp, PMWindowImp).
 interface WindowImp {
     void implTop();
     void implBottom();

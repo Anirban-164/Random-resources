@@ -1,3 +1,5 @@
+// Structural pattern used: Decorator Pattern
+// Reason: Used to dynamically add condiments (Mocha, Milk, Whip) to beverages at runtime without modifying the base beverage classes.
 abstract class Beverage {
     String description = "Unknown Beverage";
   

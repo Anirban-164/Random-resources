@@ -1,3 +1,5 @@
+// Structural pattern used: Decorator Pattern
+// Reason: Used to dynamically add encryption, priority, and logging features to basic notifications.
 /*
 You have installed an IoT security device in your home. Whenever an event occurs, the device sends a notification to your smartphone. The system currently supports three basic types of notifications:
 l) Email Notification
